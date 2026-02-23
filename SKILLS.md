@@ -1,6 +1,12 @@
 ---
 name: minions-oss-ideas
-description: Idea brainstorms, feasibility scores, tech stack picks, and market gaps
+id: OC-0137
+version: 1.0.0
+description: "Idea brainstorms, feasibility scores, tech stack picks, and market gaps"
+category: cloud
+subcategory: oss
+tags: ["minion", "cloud", "oss"]
+comments:
 ---
 
 # minions-oss-ideas — Agent Skills
