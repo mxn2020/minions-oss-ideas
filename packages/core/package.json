@@ -1,6 +1,6 @@
 {
   "name": "@minions-oss-ideas/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Idea brainstorms, feasibility scores, tech stack picks, and market gaps",
   "type": "module",
   "main": "./dist/index.js",
