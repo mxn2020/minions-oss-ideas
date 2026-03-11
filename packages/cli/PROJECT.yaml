@@ -1,0 +1,8 @@
+name: "@minions-oss-ideas/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-oss-ideas-workspace
+description: "CLI for minions-oss-ideas — Idea brainstorms, feasibility scores, tech stack picks, and market gaps"
+priority: high
+deploy_url: null
+tags: null

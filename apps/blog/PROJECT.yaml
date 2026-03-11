@@ -1,0 +1,8 @@
+name: "@minions-oss-ideas/blog"
+project_scope: child
+child_type: blog
+parent_project: minions-oss-ideas-workspace
+description: "Standard compliance definition for @minions-oss-ideas/blog"
+priority: high
+deploy_url: null
+tags: null

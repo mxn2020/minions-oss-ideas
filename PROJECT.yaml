@@ -1,0 +1,15 @@
+name: minions-oss-ideas-workspace
+project_scope: main
+project_type: monorepo
+description: "Idea brainstorms, feasibility scores, tech stack picks, and market gaps"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-oss-ideas"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, oss, ideas]
+notes: null
+id: 32b1c893-dbac-4137-9edf-e524e1d73e6d
